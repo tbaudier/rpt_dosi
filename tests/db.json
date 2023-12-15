@@ -5,44 +5,44 @@
       "injection": {
         "radionuclide": "LU177",
         "datetime": "2023-10-12 10:04:00",
-        "activity_MBq": 7256.8681640625
+        "activity_MBq": 7257.568359375
       },
       "acquisitions": {
         "tp1": {
-          "ct_image": "cycle1/tp1/ct.nii.gz",
-          "spect_image": "cycle1/tp1/spect.nii.gz",
+          "ct_image": "BP102_mhd/cycle1/tp1/ct.nii.gz",
+          "spect_image": "BP102_mhd/cycle1/tp1/spect_Bq.nii.gz",
           "rois": {
-            "liver": "cycle1/tp1/rois_crop/liver.nii.gz",
-            "left kidney": "cycle1/tp1/rois_crop/kidney_left.nii.gz",
-            "right kidney": "cycle1/tp1/rois_crop/kidney_right.nii.gz",
-            "spleen": "cycle1/tp1/rois_crop/spleen.nii.gz"
+            "liver": "BP102_mhd/cycle1/tp1/rois_crop/liver.nii.gz",
+            "left kidney": "BP102_mhd/cycle1/tp1/rois_crop/kidney_left.nii.gz",
+            "right kidney": "BP102_mhd/cycle1/tp1/rois_crop/kidney_right.nii.gz",
+            "spleen": "BP102_mhd/cycle1/tp1/rois_crop/spleen.nii.gz"
           },
           "datetime": "2023-10-12 15:03:48",
           "dicom_file": "BP102_mhd/cycle1/tp1/spect.dcm"
         },
         "tp2": {
-          "ct_image": "cycle1/tp2/ct.nii.gz",
-          "spect_image": "cycle1/tp2/spect.nii.gz",
+          "ct_image": "BP102_mhd/cycle1/tp2/ct.nii.gz",
+          "spect_image": "BP102_mhd/cycle1/tp2/spect_Bq.nii.gz",
           "rois": {
-            "liver": "cycle1/tp2/rois_crop/liver.nii.gz",
-            "left kidney": "cycle1/tp2/rois_crop/kidney_left.nii.gz",
-            "right kidney": "cycle1/tp2/rois_crop/kidney_right.nii.gz",
-            "spleen": "cycle1/tp2/rois_crop/spleen.nii.gz"
+            "liver": "BP102_mhd/cycle1/tp2/rois_crop/liver.nii.gz",
+            "left kidney": "BP102_mhd/cycle1/tp2/rois_crop/kidney_left.nii.gz",
+            "right kidney": "BP102_mhd/cycle1/tp2/rois_crop/kidney_right.nii.gz",
+            "spleen": "BP102_mhd/cycle1/tp2/rois_crop/spleen.nii.gz"
           },
           "datetime": "2023-10-13 09:47:56",
-          "dicom_file": "BP102_mhd/cycle1/tp2/spect.dcm"
+          "dicom_file": "BP102_mhd/BP102_mhd/cycle1/tp2/spect.dcm"
         },
         "tp3": {
-          "ct_image": "cycle1/tp3/ct.nii.gz",
-          "spect_image": "cycle1/tp3/spect.nii.gz",
+          "ct_image": "BP102_mhd/cycle1/tp3/ct.nii.gz",
+          "spect_image": "BP102_mhd/cycle1/tp3/spect_Bq.nii.gz",
           "rois": {
-            "liver": "cycle1/tp3/rois_crop/liver.nii.gz",
-            "left kidney": "cycle1/tp3/rois_crop/kidney_left.nii.gz",
-            "right kidney": "cycle1/tp3/rois_crop/kidney_right.nii.gz",
-            "spleen": "cycle1/tp3/rois_crop/spleen.nii.gz"
+            "liver": "BP102_mhd/cycle1/tp3/rois_crop/liver.nii.gz",
+            "left kidney": "BP102_mhd/cycle1/tp3/rois_crop/kidney_left.nii.gz",
+            "right kidney": "BP102_mhd/cycle1/tp3/rois_crop/kidney_right.nii.gz",
+            "spleen": "BP102_mhd/cycle1/tp3/rois_crop/spleen.nii.gz"
           },
           "datetime": "2023-10-18 09:56:27",
-          "dicom_file": "BP102_mhd/cycle1/tp3/spect.dcm"
+          "dicom_file": "BP102_mhd/BP102_mhd/cycle1/tp3/spect.dcm"
         }
       }
     }
