@@ -1,0 +1,152 @@
+{
+  "radionuclide": "Lu177",
+  "cycles": {
+    "cycle1": {
+      "injection": {
+        "radionuclide": "LU177",
+        "datetime": "2023-10-12 10:04:00",
+        "activity_MBq": 7257.568359375
+      },
+      "acquisitions": {
+        "tp1": {
+          "ct_image": "BP102_mhd/cycle1/tp1/ct.nii.gz",
+          "spect_image": "BP102_mhd/cycle1/tp1/spect_Bq.nii.gz",
+          "rois": {
+            "liver": "BP102_mhd/cycle1/tp1/rois_crop/liver.nii.gz",
+            "left kidney": "BP102_mhd/cycle1/tp1/rois_crop/kidney_left.nii.gz",
+            "right kidney": "BP102_mhd/cycle1/tp1/rois_crop/kidney_right.nii.gz",
+            "spleen": "BP102_mhd/cycle1/tp1/rois_crop/spleen.nii.gz"
+          },
+          "datetime": "2023-10-12 15:03:48",
+          "dicom_file": "BP102_mhd/cycle1/tp1/spect.dcm",
+          "activity": {
+            "liver": {
+              "mean": 2960.956298828125,
+              "std": 1980.42724609375,
+              "min": 0.0,
+              "max": 20298.30078125,
+              "sum": 285365120.0,
+              "mass_g": 1513.0618400578787
+            },
+            "left kidney": {
+              "mean": 12252.1484375,
+              "std": 5402.67529296875,
+              "min": 0.0,
+              "max": 33210.14453125,
+              "sum": 131073480.0,
+              "mass_g": 162.37347584039912
+            },
+            "right kidney": {
+              "mean": 11777.671875,
+              "std": 5688.6953125,
+              "min": 0.0,
+              "max": 30788.451171875,
+              "sum": 121522016.0,
+              "mass_g": 156.30704913818474
+            },
+            "spleen": {
+              "mean": 3990.314453125,
+              "std": 2693.82373046875,
+              "min": 0.0,
+              "max": 24292.068359375,
+              "sum": 126349320.0,
+              "mass_g": 491.48988882070216
+            }
+          }
+        },
+        "tp2": {
+          "ct_image": "BP102_mhd/cycle1/tp2/ct.nii.gz",
+          "spect_image": "BP102_mhd/cycle1/tp2/spect_Bq.nii.gz",
+          "rois": {
+            "liver": "BP102_mhd/cycle1/tp2/rois_crop/liver.nii.gz",
+            "left kidney": "BP102_mhd/cycle1/tp2/rois_crop/kidney_left.nii.gz",
+            "right kidney": "BP102_mhd/cycle1/tp2/rois_crop/kidney_right.nii.gz",
+            "spleen": "BP102_mhd/cycle1/tp2/rois_crop/spleen.nii.gz"
+          },
+          "datetime": "2023-10-13 09:47:56",
+          "dicom_file": "BP102_mhd/BP102_mhd/cycle1/tp2/spect.dcm",
+          "activity": {
+            "liver": {
+              "mean": 1321.6552734375,
+              "std": 1190.53857421875,
+              "min": 0.0,
+              "max": 12491.2314453125,
+              "sum": 119879424.0,
+              "mass_g": 1423.642408076337
+            },
+            "left kidney": {
+              "mean": 7869.2607421875,
+              "std": 3835.73046875,
+              "min": 0.0,
+              "max": 20987.806640625,
+              "sum": 83878448.0,
+              "mass_g": 161.82058024532648
+            },
+            "right kidney": {
+              "mean": 7542.91845703125,
+              "std": 3995.546142578125,
+              "min": 0.0,
+              "max": 21594.705078125,
+              "sum": 78401096.0,
+              "mass_g": 157.47829051289045
+            },
+            "spleen": {
+              "mean": 1608.6787109375,
+              "std": 1882.62890625,
+              "min": 0.0,
+              "max": 21549.4140625,
+              "sum": 46976636.0,
+              "mass_g": 452.548395581523
+            }
+          }
+        },
+        "tp3": {
+          "ct_image": "BP102_mhd/cycle1/tp3/ct.nii.gz",
+          "spect_image": "BP102_mhd/cycle1/tp3/spect_Bq.nii.gz",
+          "rois": {
+            "liver": "BP102_mhd/cycle1/tp3/rois_crop/liver.nii.gz",
+            "left kidney": "BP102_mhd/cycle1/tp3/rois_crop/kidney_left.nii.gz",
+            "right kidney": "BP102_mhd/cycle1/tp3/rois_crop/kidney_right.nii.gz",
+            "spleen": "BP102_mhd/cycle1/tp3/rois_crop/spleen.nii.gz"
+          },
+          "datetime": "2023-10-18 09:56:27",
+          "dicom_file": "BP102_mhd/BP102_mhd/cycle1/tp3/spect.dcm",
+          "activity": {
+            "liver": {
+              "mean": 167.36769104003906,
+              "std": 308.8953552246094,
+              "min": 0.0,
+              "max": 3987.0478515625,
+              "sum": 15821100.0,
+              "mass_g": 1486.6283393973613
+            },
+            "left kidney": {
+              "mean": 783.8632202148438,
+              "std": 692.4390869140625,
+              "min": 0.0,
+              "max": 3930.0361328125,
+              "sum": 8147474.0,
+              "mass_g": 157.98241103706124
+            },
+            "right kidney": {
+              "mean": 762.2817993164062,
+              "std": 670.25390625,
+              "min": 0.0,
+              "max": 3964.2431640625,
+              "sum": 7017566.0,
+              "mass_g": 139.51773930022028
+            },
+            "spleen": {
+              "mean": 150.7941131591797,
+              "std": 271.2386474609375,
+              "min": 0.0,
+              "max": 3253.4921875,
+              "sum": 4629681.0,
+              "mass_g": 475.9797361104403
+            }
+          }
+        }
+      }
+    }
+  }
+}
