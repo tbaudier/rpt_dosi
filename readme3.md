@@ -1,8 +1,12 @@
 
 
-# (2) print series and select
+# (2) print series, select and convert dicoms
 
-    rpt_dicom_select -i dicom/BM11/dicomdir.json -f -d ScC
+    # select the dicoms (one by one, manually)
+    rpt_dicom_select -i dicom/BC4/dicomdir.json -f -d ScC -o dicom/BC4/selected.json
+    
+    # convert to nii and create the db ; add -r option to run the conversion
+    rpt_dicom_db -i dicom/BC4/selected.json -o BC4
 
 
 # (1) dicom analysis 
