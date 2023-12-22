@@ -12,7 +12,7 @@ Current status
 
               select  convert   TotSeg  dates   activities
       BC4     X         X       wip
-      BF43
+      BF43    X         
       BM11   
       BP102  
       CP7    

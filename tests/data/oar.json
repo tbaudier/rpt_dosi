@@ -1,0 +1,7 @@
+
+[
+  {"roi_name": "liver", "roi_filename": "data/liver.nii.gz"},
+  {"roi_name": "spleen", "roi_filename": "data/spleen.nii.gz"},
+  {"roi_name": "left kidney", "roi_filename": "data/kidney_left.nii.gz"},
+  {"roi_name": "right kidney", "roi_filename": "data/kidney_right.nii.gz"}
+]
