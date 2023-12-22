@@ -8,6 +8,27 @@
     # convert to nii and create the db ; add -r option to run the conversion
     rpt_dicom_db -i dicom/BC4/selected.json -o BC4
 
+Current status
+
+              select  convert   TotSeg  dates   activities
+      BC4     X         X       wip
+      BF43
+      BM11   
+      BP102  
+      CP7    
+      DG8    
+      DL6    
+      DY^^2  
+      FD3    
+      GC^^   
+      GP3    
+      LM10   
+      LM^^2  
+      LM^^22 
+      MD^^   
+      PA8
+
+
 
 # (1) dicom analysis 
 
